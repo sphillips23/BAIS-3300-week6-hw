@@ -1,3 +1,72 @@
 
-body { background-color: greenyellow;
+.wrapper{
+    background-color: #dffbee;
+}
+
+
+header { 
+    background-color: green;
+    padding: 25px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+nav {
+    background-color: gray;
+    margin: 10px;
+    padding-bottom: 25px;
+    border-bottom: 1px solid black;
+}
+
+a{
+    text-decoration: none;
+    font-size: 1.1rem;
+}
+
+a:link {
+    color: gray;
+}
+
+a:visited {
+    color: blue;
+}
+
+a:hover {
+    color: aquamarine;
+    background-color: hotpink;
+    padding: 25px;
+
+}
+
+a:active {
+    color: green
+}
+
+main {
+    background-color: white;
+}
+
+footer {
+    background-color: aquamarine;
+    padding: 25px;
+    text-align: center;
+
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+    background-color: white;
+    border: 1px solid black;
+
+}
+
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: beige;
 }
