@@ -67,5 +67,5 @@ th, td {
 }
 
 tr:nth-child(even) {
-    background-color: beige;
+    background-color: #FEFBEA;
 }
