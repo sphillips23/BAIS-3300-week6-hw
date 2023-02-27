@@ -1,21 +1,20 @@
 
 .wrapper{
-    background-color: #dffbee;
+    background-color: #B4FABF;
 }
 
 
 header { 
-    background-color: green;
+    background-color: #0584EB;
     padding: 25px;
     text-align: center;
     color: whitesmoke;
 }
 
 nav {
-    background-color: gray;
+    background-color: #07EAF2;
     margin: 10px;
-    padding-bottom: 25px;
-    border-bottom: 1px solid black;
+    padding-bottom: 20px;
 }
 
 a{
@@ -28,13 +27,13 @@ a:link {
 }
 
 a:visited {
-    color: blue;
+    color: black;
 }
 
 a:hover {
-    color: aquamarine;
-    background-color: hotpink;
-    padding: 25px;
+    color: black;
+    background-color: #04DB84;
+    padding: 8px;
 
 }
 
@@ -43,12 +42,12 @@ a:active {
 }
 
 main {
-    background-color: white;
+    background-color: #FEFBEA;
 }
 
 footer {
-    background-color: aquamarine;
-    padding: 25px;
+    background-color: #04DB84;
+    padding: 50px;
     text-align: center;
 
 }
