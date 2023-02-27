@@ -12,9 +12,11 @@ header {
 }
 
 nav {
-    background-color: #07EAF2;
+    background-color: #63e5ff;
     margin: 10px;
     padding-bottom: 20px;
+    border-style: dashed;
+    border-color: #04DB84;
 }
 
 a{
@@ -42,13 +44,15 @@ a:active {
 }
 
 main {
-    background-color: #FEFBEA;
+    background-color: #d8f9ff;
 }
 
 footer {
     background-color: #04DB84;
     padding: 50px;
     text-align: center;
+    border-style: dashed;
+    border-color:#0584EB;
 
 }
 
@@ -67,5 +71,6 @@ th, td {
 }
 
 tr:nth-child(even) {
-    background-color: #FEFBEA;
+    background-color: #B4FABF;
 }
+
